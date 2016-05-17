@@ -1,8 +1,7 @@
 //
 //  SwiftLogging
 //
-//  Created by Sebastien Schaeffler on 15/05/16.
-//  Copyright © 2016 Bidisoft. All rights reserved.
+//  Adapted by Sebastien Schaeffler
 //
 
 import Foundation
